@@ -24,13 +24,13 @@ El servidor JSON proporciona una configuración sencilla y rápida, lo que permi
 
 Servidor en Ejecucion
 
-<a href='https://postimg.cc/8jZcSxgZ' target='_blank'><img src='https://i.postimg.cc/8jZcSxgZ/Server-code.png' border='0' alt='Server-code'/></a>
+[![codigo.png](https://i.postimg.cc/W4DTzdGN/codigo.png)](https://postimg.cc/TyXZHYNF)
 
-<a href="https://postimg.cc/CZZftm3R" target="_blank"><img src="https://i.postimg.cc/CZZftm3R/Listado.png" alt="Listado"/></a><br/><br/>
+[![Listado.png](https://i.postimg.cc/vmhL4KXt/Listado.png)](https://postimg.cc/CZZftm3R)
 
-<a href="https://postimg.cc/jDSf6svQ" target="_blank"><img src="https://i.postimg.cc/jDSf6svQ/Agregar.png" alt="Agregar"/></a><br/><br/>
+[![agregar.png](https://i.postimg.cc/XvHMf4g2/agregar.png)](https://postimg.cc/nsDwZ8g7)
 
-<a href="https://postimg.cc/BXsH65Kz" target="_blank"><img src="https://i.postimg.cc/BXsH65Kz/Actualizado.png" alt="Actualizado"/></a><br/><br/>
+[![Actualizar.png](https://i.postimg.cc/0QTBnQKC/Actualizar.png)](https://postimg.cc/TLc0YT9y)
 
-<a href="https://postimg.cc/Mn3QdhFk" target="_blank"><img src="https://i.postimg.cc/Mn3QdhFk/Eliminar.png" alt="Eliminar"/></a><br/><br/>
+[![delete.png](https://i.postimg.cc/6pbzz3DG/delete.png)](https://postimg.cc/xXHK10j0)
 
