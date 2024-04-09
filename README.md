@@ -24,13 +24,13 @@ El servidor JSON proporciona una configuración sencilla y rápida, lo que permi
 
 Servidor en Ejecucion
 
-[![codigo.png](https://i.postimg.cc/W4DTzdGN/codigo.png)](https://postimg.cc/TyXZHYNF)
+![codigo](https://github.com/RafaOnPC/SistemaGestionPedidos_Bakery/assets/128557603/95da30db-e149-4933-a963-b7f0456678e9)
 
-[![Listado.png](https://i.postimg.cc/vmhL4KXt/Listado.png)](https://postimg.cc/CZZftm3R)
+![Listado](https://github.com/RafaOnPC/SistemaGestionPedidos_Bakery/assets/128557603/522f3e7b-93cd-48f2-9327-28701bb6e76b)
 
-[![agregar.png](https://i.postimg.cc/XvHMf4g2/agregar.png)](https://postimg.cc/nsDwZ8g7)
+![agregar](https://github.com/RafaOnPC/SistemaGestionPedidos_Bakery/assets/128557603/981c4016-b4cb-429a-ae71-3e8daf1a04ac)
 
-[![Actualizar.png](https://i.postimg.cc/0QTBnQKC/Actualizar.png)](https://postimg.cc/TLc0YT9y)
+![Actualizar](https://github.com/RafaOnPC/SistemaGestionPedidos_Bakery/assets/128557603/333efa9c-6376-417b-b700-8322abdc788a)
 
-[![delete.png](https://i.postimg.cc/6pbzz3DG/delete.png)](https://postimg.cc/xXHK10j0)
+![delete](https://github.com/RafaOnPC/SistemaGestionPedidos_Bakery/assets/128557603/4760ab14-6924-467e-8c9c-f0f9d36bb044)
 
